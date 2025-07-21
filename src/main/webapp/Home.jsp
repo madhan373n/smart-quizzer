@@ -104,11 +104,20 @@ function closeSidebar() {
 
 <!-- Description -->
 <div class="description">
-  <p>
-    Welcome to <b style="color:#d4af37;">Smart Quizzer</b> – the premium platform to test and sharpen your programming and aptitude skills. 
-    Designed with a sleek and modern interface, Smart Quizzer gives you the competitive edge you need. 
-    Select a topic and start your journey to excellence.
-  </p>
+ <p>
+  Welcome to <b style="color:#d4af37;">Smart Quizzer</b> – the premium platform to test and sharpen your programming and aptitude skills.
+  Designed with a sleek and modern interface, Smart Quizzer gives you the competitive edge you need.
+  Select a topic and start your journey to excellence.
+  <br><br>
+  Dive into a variety of quizzes covering <b>Java, C, C++, Python, and Aptitude</b> – all structured to improve your confidence and accuracy.
+  <br><br>
+  Whether you're preparing for campus placements, competitive exams, or just want to stay sharp, Smart Quizzer is your go-to practice hub.
+  <br><br>
+  Track your performance, review detailed solutions, and challenge yourself with real-time scoring and instant feedback.
+  <br><br>
+  Start learning smarter, not harder – unlock your full potential with <b style="color:#d4af37;">Smart Quizzer</b> today!
+</p>
+
 </div>
 
 </body>
